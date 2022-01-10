@@ -25,7 +25,7 @@ void recursivePrintList(Node *head)
 
 Node *insertEnd(Node *head, int x)
 {
-    Node *temp = new Node(40);
+    Node *temp = new Node(x);
 
     if(head == NULL)
         return temp;
