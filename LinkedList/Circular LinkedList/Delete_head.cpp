@@ -54,7 +54,7 @@ Node *deleteHeadEfficient(Node *head)
     if (head == NULL)
         return NULL;
 
-    if (head->next == NULL)
+    if (head->next == head)
     {
         delete head;
         return NULL;

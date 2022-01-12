@@ -30,7 +30,7 @@ void printList(Node *head)
 
 Node *deleteHead(Node *head)
 {
-    if (head->next == NULL)
+    if (head->next == head)
     {
         delete head;
         return NULL;
