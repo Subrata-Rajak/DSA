@@ -47,5 +47,14 @@
     - [Delete last](https://github.com/Subrata-Rajak/DSA/blob/master/LinkedList/Doubly%20LinkedList/Delete_last.cpp)
     - [Reverse](https://github.com/Subrata-Rajak/DSA/blob/master/LinkedList/Doubly%20LinkedList/Reverse.cpp)
 
+- ## Stack [[Source]](https://github.com/Subrata-Rajak/DSA/tree/master/Stack)
+  - [Array implementation](https://github.com/Subrata-Rajak/DSA/blob/master/Stack/Array_implementation.cpp)
+  - [Vector implementation](https://github.com/Subrata-Rajak/DSA/blob/master/Stack/Vector_implementation.cpp)
+  - [LinkedList implementation](https://github.com/Subrata-Rajak/DSA/blob/master/Stack/LinkedList_implementation.cpp)
+
+- ## Queue [[Source]](https://github.com/Subrata-Rajak/DSA/tree/master/Queue)
+  - [Array implementation](https://github.com/Subrata-Rajak/DSA/blob/master/Queue/Array_implementation.cpp)
+  - [LinkedList implementation](https://github.com/Subrata-Rajak/DSA/blob/master/Queue/Linkedlist_implementation.cpp)
+
 >**Point To Be Noted:** If you find these helpfull please star the repo and always feel free to prefer this as an ultimate source of DSA implementations.
 >Thanks for the visit.
