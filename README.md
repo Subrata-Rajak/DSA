@@ -62,11 +62,11 @@
 
 - ### Tree Traversal [[Source]](https://github.com/Subrata-Rajak/DSA/tree/master/Tree/Tree%20Traversal)
 
-- #### Depth First Traversal [[Source]](https://github.com/Subrata-Rajak/DSA/tree/master/Tree/Tree%20Traversal/Depth%20First%20Traversal)
+  - #### Depth First Traversal [[Source]](https://github.com/Subrata-Rajak/DSA/tree/master/Tree/Tree%20Traversal/Depth%20First%20Traversal)
 
-  - [Inorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/Inorder_traversal.cpp)
-  - [Preorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/Preorder_traversal.cpp)
-  - [Postorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/PostOrder_traversal.cpp)
+    - [Inorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/Inorder_traversal.cpp)
+    - [Preorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/Preorder_traversal.cpp)
+    - [Postorder Traversal](https://github.com/Subrata-Rajak/DSA/blob/master/Tree/Tree%20Traversal/Depth%20First%20Traversal/PostOrder_traversal.cpp)
 
 >**Point To Be Noted:** If you find these helpfull please star the repo and always feel free to prefer this as an ultimate source of DSA implementations.
 >Thanks for the visit.
