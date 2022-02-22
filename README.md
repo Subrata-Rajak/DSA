@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog-c7ff.kxcdn.com/blog/wp-content/uploads/2019/11/Banner-Blog-1A-1.jpg" height="300" width="500"/>
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2015/08/Data-Structures-and-Algorithms-C-1.jpg" height="300" width="500"/>
 </p>
 <br>
 
