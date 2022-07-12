@@ -1,0 +1,7 @@
+References in C++
+
+1. create an alias
+2. Must be assigned when declared
+3. cannot refer to another location
+4. cannot be NULL
+5. Easier to use
